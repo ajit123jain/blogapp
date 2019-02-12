@@ -3,7 +3,9 @@
 
   ],
   "buildpacks": [
-
+  {
+    "url": "https://github.com/bundler/heroku-buildpack-bundler2"
+  }
   ],
   "env": {
   },
